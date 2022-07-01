@@ -1,0 +1,105 @@
+
+html, body {
+  height: 100%;
+  width: 100%;
+    background-image: linear-gradient( #199, #169);
+}
+h2{
+  text-align: center;
+  font-family: Impact;
+}
+
+button{
+background: transparent;
+  border-color: transparent;
+  padding: 0%;
+}
+a:hover {
+  background-color: #2b153b;
+  color:white;
+}
+h1{
+  font-family: Impact;
+  text-align: center;
+  color: lightgreen;
+   -webkit-text-stroke: 1px darkgreen;
+  font-style:italic;
+}
+h3{
+  font-family: courier;
+  text-align: center;
+  color: white;
+}
+.navb{
+  font-size: 25px;
+  font-family: Impact;
+  color:white;
+}
+
+a{
+  color: lightgreen;
+     -webkit-text-stroke: 1px darkgreen;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+#btn{
+  background: seagreen;
+  padding: 10px;
+display:block;
+  font-size: 24px;
+  border-radius: 4px;
+  border-color:black ;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+.source{
+  text-decoration:underline;
+  color:white
+}
+
+#firstVid{
+  margin-left: 75px;
+}
+
+#fact{
+  font-size: 25px;
+  font-family: courier;
+ background: #155;
+  color:white;
+}
+
+#inst{
+  color:white;
+  margin-top: 5px;
+font-family:"courier";
+  font-size: 20px;
+}
+.climcl{
+  font-family: default;
+  color: darkblue;
+}
+#myButton{
+   background: seagreen;
+  padding: 5px;
+display:block;
+  font-size: 15px;
+  border-radius: 4px;
+  border-color:black ;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
+#oml{
+  padding-left: 100px;
+}
+#ss{
+  padding-left: 370px;
+}
+
+#displayScript{
+  font-family:"courier";
+  font-size: 15px;
+  color: lightpink;
+}
